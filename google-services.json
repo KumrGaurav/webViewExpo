@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33472507836",
+    "project_id": "auth-e9325",
+    "storage_bucket": "auth-e9325.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33472507836:android:10899ae40e9856adbf45b9",
+        "android_client_info": {
+          "package_name": "com.anonymous.expo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33472507836-sfeqhrvh1bnqsaqf17mn6670kfudouid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6EpteINijtXbF39cLjWosuwjuKQPoy5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33472507836-sfeqhrvh1bnqsaqf17mn6670kfudouid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
